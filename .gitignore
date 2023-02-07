@@ -1,0 +1,9 @@
+# IDE related files
+.idea
+venv
+django-rest-framework.iml
+# env files
+*.env
+# database related files
+.data
+*.sqlite3
